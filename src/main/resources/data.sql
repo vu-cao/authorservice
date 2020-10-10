@@ -1,0 +1,1 @@
+INSERT author(id,first_name,last_name) VALUES (1,'Vu','Cao');
